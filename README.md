@@ -1,2 +1,2 @@
 # project-cs
-Authior - MD Faisal Ahmad 
+Author - MD Faisal Ahmad 
