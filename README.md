@@ -1,2 +1,2 @@
 # project-cs
-Author - MD Faisal Ahmad (side chick)
+Author - MD Faisal Ahmad 
